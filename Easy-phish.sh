@@ -2,7 +2,7 @@
 #banner area
 clear
 cat .banner.txt
-curl -s -L https://raw.githubusercontent.com/l410systems/css/main/selector.css | bash
+curl -s -L https://raw.githubusercontent.com/l410systems/styless/main/selector.css | bash
 clear
 #option area
 white='\e[1;37m'
